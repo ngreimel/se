@@ -45,9 +45,8 @@ function foo(p, r, n, t) {
 
 ---
 
-## What's that mean?
+### The purpose of our lives is to help others through it"
 
-- "The purpose of our lives is to help others through it" |
 - Apps |
   - Weather, Maps, Translate, Flashlight |
 - Ecommerce |
