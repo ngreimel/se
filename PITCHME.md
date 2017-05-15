@@ -60,8 +60,6 @@ function foo(p, r, n, t) {
 
 ## But wait, there's more!
 
-- How about a programming exercise? |
-
 ---
 
 ## I'm interested, What are the next steps?
