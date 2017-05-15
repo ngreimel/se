@@ -1,14 +1,16 @@
-# Welcome
+## Welcome
 
 +++
 
-![Image-Absolute](flow-chart.png) |
+![Image-Absolute](flow-chart.png)
 
-## Flow Chart |
++++
 
-Converts `Temperature` from `Fahrenheit` to `Celsius`, and vice versa
+## Flow Chart
+
+![Image-Absolute](flow-chart.png)
 
 ---
 
-# What is this?
+## What is this?
 
