@@ -2,7 +2,7 @@
 
 +++
 
-## What is this?
+## Identify the following
 
 +++
 
@@ -13,10 +13,6 @@
 ## Flowchart
 
 ![Image-Absolute](flow-chart.png)
-
-+++
-
-## How about this?
 
 +++
 
@@ -53,20 +49,21 @@ function foo(p, r, n, t) {
 
 ---
 
-## For realz tho
+## In practice
 
 - Recognize patterns |
 - Identify opportunities |
-- Connect systems |
 - Solve puzzles |
 
 ---
 
-## How about a programming exercise?
+## But wait, there's more!
+
+How about a programming exercise? |
 
 ---
 
-## What are the next steps?
+## I'm interested, What are the next steps?
 
 <ol>
     <li class="fragment">Be curious</li>
