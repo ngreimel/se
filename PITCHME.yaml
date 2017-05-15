@@ -1,2 +1,4 @@
 background : background.jpg
 background-size : cover
+
+theme-override : PITCHME.css
