@@ -1,4 +1,8 @@
-## Welcome
+##
+
++++
+
+## What is this?
 
 +++
 
@@ -6,11 +10,23 @@
 
 +++
 
-## Flow Chart
+## Flowchart
 
 ![Image-Absolute](flow-chart.png)
 
 ---
 
-## What is this?
+## How about this?
 
++++
+
+```JavaScript
+
+function foo(p, r, n, t) {
+    return p * Math.pow(1 + r/n, n * t); 
+}
+```
+
+---
+
+## 
