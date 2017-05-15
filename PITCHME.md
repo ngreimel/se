@@ -44,6 +44,10 @@ function foo(p, r, n, t) {
 
 ## What is software engineering?
 
+---
+
+## What is software engineering?
+
 <blockquote>
     <p>
         a branch of computer science that deals with the design, implementation, and maintenance of complex computer programs
@@ -58,7 +62,7 @@ function foo(p, r, n, t) {
 - Recognize patterns |
 - Identify opportunities |
 - Connect systems |
-- Solve puzzles
+- Solve puzzles |
 
 ---
 
@@ -70,4 +74,4 @@ function foo(p, r, n, t) {
 
 1. Be curious |
 2. Learn |
-3. Goto #1
+3. Goto #1 |
