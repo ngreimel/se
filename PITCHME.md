@@ -28,6 +28,18 @@ function foo(p, r, n, t) {
 
 ```
 
++++
+
+## JavaScript Code
+
+```JavaScript
+
+function foo(p, r, n, t) {
+    return p * Math.pow(1 + r/n, n * t); 
+}
+
+```
+
 ---
 
 ## What is software engineering?
