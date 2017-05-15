@@ -12,12 +12,20 @@
 
 +++
 
-```JavaScript
+## Flowchart
 
+![Image-Absolute](flow-chart.png)
+
+Convert Celsius to Fahrenheit, or vice versa
+
++++
+
+```JavaScript
+<script>
 function foo(p, r, n, t) {
     return p * Math.pow(1 + r/n, n * t); 
 }
-
+</script>
 ```
 
 +++
@@ -25,10 +33,11 @@ function foo(p, r, n, t) {
 ## JavaScript Code
 
 ```JavaScript
-
-function foo(p, r, n, t) {
+<script>
+function calculateCompoundInterest(p, r, n, t) {
     return p * Math.pow(1 + r/n, n * t); 
 }
+</script>
 
 ```
 
