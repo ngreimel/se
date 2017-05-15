@@ -47,17 +47,21 @@ function foo(p, r, n, t) {
 
 ## What's that mean?
 
-- "The purpose of our lives is to help others through it." |
+- "The purpose of our lives is to help others through it" |
 - Apps |
+  - Weather, Maps, Translate, Flashlight |
 - Ecommerce |
+  - Amazon, Target, Etsy |
 - Automation |
+  - IFTTT, Nest, Spreadsheets |
 - Connections |
+  - Finance, Healthcare, Skype, Email |
 
 ---
 
 ## But wait, there's more!
 
-How about a programming exercise? |
+- How about a programming exercise? |
 
 ---
 
