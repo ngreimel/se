@@ -68,6 +68,12 @@ function foo(p, r, n, t) {
 
 ## What are the next steps?
 
-1. Be curious |
-2. Learn |
-3. Goto #1 |
+<ol>
+    <li class="fragment">Be curious</li>
+    <li class="fragment">Learn</li>
+    <li class="fragment">Goto #1</li>
+</ol>
+
+---
+
+## Questions?
