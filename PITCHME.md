@@ -2,10 +2,6 @@
 
 +++
 
-## Identify the following
-
-+++
-
 ![Image-Absolute](flow-chart.png)
 
 +++
@@ -49,11 +45,13 @@ function foo(p, r, n, t) {
 
 ---
 
-## In practice
+## What's that mean?
 
-- Recognize patterns |
-- Identify opportunities |
-- Solve puzzles |
+- "The purpose of our lives is to help others through it." |
+- Apps |
+- Ecommerce |
+- Automation |
+- Connections |
 
 ---
 
